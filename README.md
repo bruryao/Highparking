@@ -15,7 +15,7 @@ get-http://hghparking.com/cosrumer{id}
 put-http://highparking.com/cosrumer{id}
 post-http://highparking.com/cosrumer{id}
 delete-http://highparking.com/cosrumer{id}
-תעריף 
+תעריף :
 
 get-http://hghparking.com/rate/{k}
 put-http://highparking.com/rate/{k}
